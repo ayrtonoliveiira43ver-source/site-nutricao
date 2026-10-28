@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ideias para uma rotina com mais equilíbrio: treino, alimentação, culinária e receitas no blog da Nutrir.">
+  <title>Blog — Rotina com leveza | Nutrir</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="blog.css">
+  <script src="script.js" defer></script>
+  <script src="blog.js" defer></script>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml"></head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a><header data-site-header></header>
+  <main id="conteudo">
+    <section class="blog-heading container">
+      <p class="breadcrumb"><a href="index.html">Principal</a><span aria-hidden="true">/</span>Blog</p>
+      <p class="eyebrow">O CUIDADO TAMBÉM MORA NO COTIDIANO</p>
+      <h1>Vida leve,<br><em>um dia de cada vez.</em></h1>
+      <p class="blog-lead">Entre uma refeição, um movimento e uma pausa, há espaço para cuidar de você. Inspirações para uma rotina mais gostosa e possível.</p>
+      <span class="editorial-note">Conteúdo demonstrativo · Clínica fictícia</span>
+    </section>
+
+    <section class="blog-feature-section container" aria-label="Em destaque">
+      <article class="blog-feature">
+        <a class="blog-feature-photo" href="artigo.html?post=organizar-alimentacao-semana" aria-label="Ler: Uma semana mais leve começa com pequenas escolhas">
+          <img src="assets/rotina.jpg" width="1200" height="800" alt="Cesta com legumes frescos para o preparo de refeições" fetchpriority="high">
+          <span class="feature-stamp">ESCOLHA DA SEMANA</span>
+        </a>
+        <div class="blog-feature-copy">
+          <span class="category-label">ALIMENTAÇÃO</span>
+          <p class="article-meta">28 de outubro de 2026 <span>·</span> 4 min de leitura</p>
+          <h2><a href="artigo.html?post=organizar-alimentacao-semana">Uma semana mais leve começa com pequenas escolhas.</a></h2>
+          <p>Organização sem perfeccionismo: um jeito simples de pensar nas refeições e abrir espaço para o que cabe na sua vida.</p>
+          <a class="blog-read-link" href="artigo.html?post=organizar-alimentacao-semana">Ler a história <span aria-hidden="true"><svg class="ui-arrow" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false"><path d="M6 18 18 6M6 6h12v12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
+        </div>
+      </article>
+    </section>
+
+    <section class="blog-stories container section" aria-labelledby="stories-title">
+      <div class="blog-stories-heading">
+        <div><p class="eyebrow">IDEIAS PARA LEVAR PARA A VIDA</p><h2 id="stories-title">Explore sua <em>rotina.</em></h2></div>
+        <p>Um pouco de informação.<br>Um convite para experimentar.</p>
+      </div>
+      <div class="blog-toolbar">
+        <div class="blog-filters" role="group" aria-label="Filtrar artigos por assunto">
+          <button class="filter-button is-active" type="button" data-category="Todos" aria-pressed="true">Todos</button>
+          <button class="filter-button" type="button" data-category="Treino" aria-pressed="false">Treino</button>
+          <button class="filter-button" type="button" data-category="Alimentação" aria-pressed="false">Alimentação</button>
+          <button class="filter-button" type="button" data-category="Culinária" aria-pressed="false">Culinária</button>
+          <button class="filter-button" type="button" data-category="Receitas" aria-pressed="false">Receitas</button>
+        </div>
+        <label class="blog-search"><span class="sr-only">Buscar artigos</span><input id="blog-search" type="search" placeholder="O que você procura?" autocomplete="off"><span aria-hidden="true">⌕</span></label>
+      </div>
+      <p id="blog-results" class="blog-results" aria-live="polite"></p>
+      <div id="blog-grid" class="blog-grid"></div>
+      <div id="blog-empty" class="blog-empty" hidden><h3>Nenhuma história por aqui ainda.</h3><p>Tente outra palavra ou escolha um assunto diferente.</p><button class="button button-outline" id="clear-filters" type="button">Ver todos os artigos</button></div>
+      <noscript><p>Ative o JavaScript para filtrar e consultar todos os artigos. Você também pode <a href="artigo.html?post=organizar-alimentacao-semana">ler a história em destaque</a>.</p></noscript>
+    </section>
+
+    <section class="blog-closing container">
+      <div><p class="eyebrow">DA INSPIRAÇÃO PARA A SUA VIDA</p><h2>O seu caminho merece<br><em>um olhar individual.</em></h2><p>As ideias do blog são gerais. O acompanhamento nutricional considera a sua história e as suas necessidades.</p></div>
+      <a class="button" href="index.html#contato">Conheça o acompanhamento <span aria-hidden="true"><svg class="ui-arrow" viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false"><path d="M6 18 18 6M6 6h12v12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
+    </section>
+  </main>
+  <footer data-site-footer></footer>
+</body>
+</html>
