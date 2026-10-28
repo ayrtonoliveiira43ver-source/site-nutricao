@@ -33,3 +33,7 @@ Antes de usar como clínica real, substitua os dados em `index.html`, `script.js
 As fotos são públicas e ilustrativas, distribuídas localmente; não representam a clínica nem o profissional fictícios. Consulte as fontes em `assets/CREDITOS.md`. Não dependem de conexão a serviços de imagens no navegador. A tipografia Lato é servida localmente, com alternativas do sistema e licença em `assets/fonts/OFL.txt`.
 
 A organização e os enquadramentos seguem as sete capturas do site de referência enviadas pelo usuário. A paleta foi atualizada para azul-marinho, azul-petróleo e cinza claro; fotos, textos, logotipo e dados da clínica de referência não foram reutilizados. O mapa é um desenho esquemático de uma localização fictícia, sem integração com mapas externos. A galeria do Instagram é demonstrativa, sem consulta a perfis reais.
+
+## Refinamento profissional
+
+Abertura com proposta de valor resumida, serviços mais legíveis, etapas do acompanhamento e dúvidas frequentes na página principal. Dados e contatos continuam demonstrativos.
