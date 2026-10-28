@@ -37,3 +37,5 @@ A organização e os enquadramentos seguem as sete capturas do site de referênc
 ## Refinamento profissional
 
 Abertura com proposta de valor resumida, serviços mais legíveis, etapas do acompanhamento e dúvidas frequentes na página principal. Dados e contatos continuam demonstrativos.
+
+As páginas internas compartilham o acabamento visual da página principal: cartões de serviços, etapas numeradas, apresentação do profissional, avaliações ilustrativas, chamada de contato e artigos com leitura ampliada.
