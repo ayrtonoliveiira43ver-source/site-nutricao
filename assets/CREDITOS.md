@@ -97,3 +97,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
+
+## Imagens adicionadas para a referência de estrutura
+
+| Arquivo local | Conteúdo ilustrativo | Arquivo público de origem |
+| --- | --- | --- |
+| `consulta.jpg` | Mulher sentada à mesa com computador portátil e plantas ao fundo; imagem ilustrativa de trabalho, sem representar a profissional fictícia | [Sadee — EduWeb, about-banner.jpg](https://github.com/codewithsadee/eduweb/blob/master/assets/images/about-banner.jpg) |
+| `acolhimento.jpg` | Profissionais de saúde conversando com uma pessoa idosa; cena pública ilustrativa, sem representar pacientes ou equipe da Nutrir | [Themefisher — Medic, blog/6.jpg](https://github.com/themefisher/medic/blob/main/source/images/blog/6.jpg) |
+
+O README público do EduWeb declara: “This project is free to use and does not contains any license.” A fonte não identifica uma licença fotográfica individual nem o fotógrafo da imagem de trabalho. A imagem `acolhimento.jpg` acompanha o mesmo template Medic e seu aviso MIT reproduzido acima. Os arquivos foram preservados sem edição ou recompressão. Como nas demais referências, não se afirma domínio público, credencial profissional da pessoa fotografada ou liberação específica de retrato para uso comercial definitivo.
