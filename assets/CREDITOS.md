@@ -106,3 +106,11 @@ THE SOFTWARE.
 | `acolhimento.jpg` | Profissionais de saúde conversando com uma pessoa idosa; cena pública ilustrativa, sem representar pacientes ou equipe da Nutrir | [Themefisher — Medic, blog/6.jpg](https://github.com/themefisher/medic/blob/main/source/images/blog/6.jpg) |
 
 O README público do EduWeb declara: “This project is free to use and does not contains any license.” A fonte não identifica uma licença fotográfica individual nem o fotógrafo da imagem de trabalho. A imagem `acolhimento.jpg` acompanha o mesmo template Medic e seu aviso MIT reproduzido acima. Os arquivos foram preservados sem edição ou recompressão. Como nas demais referências, não se afirma domínio público, credencial profissional da pessoa fotografada ou liberação específica de retrato para uso comercial definitivo.
+
+## Retrato ilustrativo masculino
+
+| Arquivo local | Conteúdo ilustrativo | Arquivo público de origem |
+| --- | --- | --- |
+| `doutor.jpg` | Retrato masculino em jaleco e óculos, usado apenas para ilustrar o profissional fictício Dr. Rafael Oliveira; a pessoa fotografada não integra a clínica | [Themefisher — Medic, doctor-2.jpg](https://github.com/themefisher/medic/blob/main/source/images/team/doctor-2.jpg) |
+
+A foto acompanha o template Medic, cujo aviso MIT está reproduzido acima. A origem não identifica uma licença fotográfica individual nem confirma a titulação da pessoa retratada. O arquivo foi mantido em sua resolução original de 360 × 300 pixels, sem edição ou recompressão. A disponibilidade pública e a licença do template não estabelecem domínio público ou liberação específica de retrato para uso comercial definitivo. Nome, título e perfil apresentados no modelo são fictícios; não se afirma que a pessoa da imagem seja o profissional citado.
